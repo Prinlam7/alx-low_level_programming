@@ -2,12 +2,12 @@
 
 
 /**
- *  main - Prints the sizeof many var types
+ * main - Prints the sizeof many var types
  *
- *  return: Always 0 (Success)
+ * return: Always 0 (Success)
  */
 
-int main(void)
+ int main(void)
 {
 	char a;
 	int b;
