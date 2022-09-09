@@ -1,2 +1,2 @@
 #!/bin/bans
-gcc -E -o c $CFILE
+gcc -E $CFILE -o c
