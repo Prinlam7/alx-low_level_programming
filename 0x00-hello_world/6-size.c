@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Prints the sizeof many var types
+ * main - Entry point
  *
  * return: Always 0 (Success)
  */
