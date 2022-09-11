@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print numbers of base 10 
+ * main - print numbers of base 10
  * starting from 0
  * Return: Always 0 (successful)
  */
@@ -11,7 +11,7 @@ int main(void)
 
 	while (n <= 10)
 	{
-		printf("%d\n", n);
+		printf("%d", n);
 		n++;
 	}
 	return (0);
