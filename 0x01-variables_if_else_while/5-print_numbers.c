@@ -5,7 +5,6 @@
  * starting from 0
  * Return: Always 0 (successful)
  */
-
 int main(void)
 {
 	int n = 0;
@@ -13,7 +12,7 @@ int main(void)
 	while (n <= 10)
 	{
 		printf("%d\n", n);
+		n++;
 	}
-	n++;
 	return (0);
 }
