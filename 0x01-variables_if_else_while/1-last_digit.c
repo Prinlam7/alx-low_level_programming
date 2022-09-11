@@ -7,6 +7,7 @@
  *
  *  Retuen: Always 0 (successful)
  */
+int main(void)
 {
 	int n;
 	
