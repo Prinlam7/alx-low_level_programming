@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print all single digit
+ * main - print alphabet reverse in lowercase
  *
  * REturn: Always 0 (successful)
  */
@@ -9,7 +9,7 @@ int main(void)
 {
 	int n;
 	
-	for (n = 48; n < 58; n++)
+	for (n = 'z'; n < 'a'; n--)
 	{
 		putchar(n);
 	}
