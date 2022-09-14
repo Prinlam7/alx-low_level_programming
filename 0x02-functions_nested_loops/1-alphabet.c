@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (successful)
  */
-void print_alphabet(void)
+void print_alphabet(void) /* entry point*/
 {
 	int i;
 
