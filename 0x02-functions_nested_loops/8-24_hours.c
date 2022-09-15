@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print 24 hours
+ * jack_bauer - print 24 hours
  *
  * Return: Always 0 (always)
  */
