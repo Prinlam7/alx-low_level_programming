@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - print last digit
- *
+ *@: character
  * Return: Always 0 
  */
 

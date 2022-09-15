@@ -2,7 +2,7 @@
 
 /**
  * _abs - print an absolute intergal
- *
+ *@n: character
  * Return: Always 0 (successful)
  */
 int _abs(int n)
