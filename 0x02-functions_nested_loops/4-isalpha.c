@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isalpha - print alphabet in lower and uppercase
- *@ c: character
+ *@c: character
  * Return:Always 0 (successful)
  */
 int _isalpha(int c)
