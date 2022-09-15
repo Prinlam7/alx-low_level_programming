@@ -2,6 +2,8 @@
 
 /**
  * add - add two integals
+ * @a: int to be added to b
+ * @b: int to be addd to a
  *
  * Return: Always 0
  */
