@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print an absolute intergal
+ * _abs - print an absolute intergal
  *
  * Return: Always 0 (successful)
  */
