@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_times_table -print n timrs table
+ * print_times_table - print n times table
  * @n: number of times table
  */
 void print_times_table(int n)
@@ -39,7 +39,7 @@ void print_times_table(int n)
 					_putchar(',');
 					_putchar(' ');
 					_putchar((k / 10) + '0');
-					_putchar(((K / 10) % 10) + '0');
+					_putchar(((k / 10) % 10) + '0');
 					_putchar((k % 10) + '0');
 				}
 			}
