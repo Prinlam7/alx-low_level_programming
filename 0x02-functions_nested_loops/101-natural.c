@@ -11,7 +11,7 @@ int main(void)
 	a = 0;
 	b = 0;
 	c = 0;
-	
+
 	for (i = 0; i < 1024; i++)
 	{
 		if ((i % 3) == 0)
