@@ -24,7 +24,7 @@ int main(void)
 		}
 	}
 	c = a + b;
-	printf("%iu\n", c);
+	printf("%lu\n", c);
 
 	return (0);
 }
