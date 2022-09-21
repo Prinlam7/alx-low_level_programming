@@ -5,7 +5,7 @@
  */
 void _puts(char *str)
 {
-	int;
+	int i;
 
 	for (i = 0; str[i] != '\0'; i++)
 	{
