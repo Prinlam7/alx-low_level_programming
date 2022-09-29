@@ -14,11 +14,11 @@ int _sqrt_recursion(int n)
 	{
 		return (-1);
 	}
-	return (actual_sqrt_recurtion(n, 0));
+	return (actual_sqrt_recursion(n, 0));
 }
 
 
-int actual_sqrt_recurion(int n, int i)
+int actual_sqrt_recursion(int n, int i)
 {
 	if (i * i > n)
 	{
