@@ -53,7 +53,7 @@ int _atoi(char *s)
  * @argv: array
  * Return: 0, 1
  */
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int result, num1, num2;
 
