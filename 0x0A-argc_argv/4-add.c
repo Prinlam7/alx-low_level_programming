@@ -48,7 +48,7 @@ int _atoi(char *s)
 }
 
 /**
- * main - adds 2 positive number
+ * main - adds two positive number
  * @argc: num of arg
  * @argv: array
  * Return 0 or 1
